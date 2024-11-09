@@ -1,4 +1,4 @@
-# Landing Error Scoring System for Basketball: A Computer Vision Approach
+# Predicting Biomechanical Risk Factors for Division - I Women’s Basketball Athletes
 
 ## Overview
 - Pose Estimation
